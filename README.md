@@ -13,3 +13,4 @@
 
 ### 🌐 足迹
 - 🤗 **Hugging Face**: [huggingface.co/My-ABC](https://huggingface.co/My-ABC)
+- 𝕏 **Twitter / X**: [@myabc1017](https://x.com/myabc1017)
