@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋 我是 My-ABC
 
-<!--
-**My-ABC/My-ABC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+“用 Python 解决眼前问题，用 C 触摸底层灵魂。”
 
-Here are some ideas to get you started:
+### 🚀 核心项目
+- 🖥️ **[terminal-3d-sdf](https://github.com/My-ABC/terminal-3d-sdf)**：纯 Python + OpenCL 手搓的控制台 3D 光线追踪器。不用任何图形库，硬刚 60 FPS。
+- ⚙️ **[my-os](https://github.com/My-ABC/my-os)**：从零开始手搓的操作系统内核。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 核心领域与技术栈
+- **主攻方向**：AI、深度学习（PyTorch）
+- **主力语言**：Python、C
+- **涉猎领域**：SDF 渲染、OpenCL 并行计算、操作系统内核开发。
+
+### 🌐 足迹
+- 🤗 **Hugging Face**: [huggingface.co/My-ABC](https://huggingface.co/My-ABC)
